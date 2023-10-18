@@ -6,11 +6,11 @@
 Project Summary
 
 `SumrizeXpert: Your AI-Powered Article Summarizer. Effortlessly condense lengthy articles into concise, informative summaries. Enhance your reading experience, save time, and gain insights.`
-
+<!--
 ScreenShots 📸
 
-![Version one screen shot of the app](/SumrizeXpert/public/SumrizeXpert.png)
-
+![Version one screen shot of the app](/public/SumrizeXpert.png)
+-->
 
 
 

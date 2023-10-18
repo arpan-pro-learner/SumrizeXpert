@@ -1,4 +1,22 @@
 
+![](https://media.giphy.com/media/3oKHWzcOjMjbBETa5W/giphy.gif)
+
+### Little bit Details about the project 
+
+Project Summary
+
+`SumrizeXpert: Your AI-Powered Article Summarizer. Effortlessly condense lengthy articles into concise, informative summaries. Enhance your reading experience, save time, and gain insights.`
+
+ScreenShots 📸
+
+![Version one screen shot of the app](image.png)
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

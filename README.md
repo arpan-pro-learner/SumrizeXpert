@@ -9,7 +9,7 @@ Project Summary
 
 ScreenShots 📸
 
-![Version one screen shot of the app](image.png)
+![Version one screen shot of the app](/SumrizeXpert/public/SumrizeXpert.png)
 
 
 

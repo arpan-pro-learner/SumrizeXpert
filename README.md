@@ -7,15 +7,14 @@ Project Summary
 
 `SumrizeXpert: Your AI-Powered Article Summarizer. Effortlessly condense lengthy articles into concise, informative summaries. Enhance your reading experience, save time, and gain insights.`
 
+Live Link 🔗 : https://sumrize-xpert.netlify.app/
+
 ScreenShots 📸
 
-![](/SumrizeXpert/public/SumrizeXpert.png)
+![Version one screen shot of the app](/SumrizeXpert/public/SumrizeXpert.png)
 
 
-![Version one screen shot of the app](/SumrizeXpert/public/SumrizeXpert%20GIF.gif)
-
-
-
+![gif of project in working](/SumrizeXpert/public/SumrizeXpert%20GIF.gif)
 
 
 
